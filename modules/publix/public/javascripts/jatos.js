@@ -3090,3 +3090,4 @@ const jatos = {};
     }
 
 })();
+window.jatos = jatos; // Make jatos available in the window object for backward compatibility
